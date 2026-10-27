@@ -11,6 +11,10 @@ git clone https://github.com/FavnyWasTaken/Soundboard-mono.git
 cd Soundboard-mono
 bash soundboard-mono.sh
 
+
+If u use Hyprland binds for open linux-soundboard, add this path to u bind, so that it opens with the color you want:
+"/home/USER/.local/opt/linux-soundboard-mono/linux-soundboard"
+
 Popular-frequent question: Why this script does not work in my CachyOS/Omarchy/EndeavourOS?
 If the script does not work, install all the necessary packages:
 sudo pacman -S --needed git rustup pkgconf clang gtk4 libadwaita libpulse opus libx11 libxi pipewire pipewire-pulse
