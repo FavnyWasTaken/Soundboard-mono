@@ -2,6 +2,9 @@
 
 # 🎨 Soundboard Mono
 
+<img width="2444" height="1374" alt="image" src="https://github.com/user-attachments/assets/357ca9a0-9415-4bb9-9f96-6010ad6ed980" />
+
+
 ### Monochrome theme for Linux SoundBoard
 
 A small theme script for [Linux SoundBoard](https://github.com/germanua/Linux-SoundBoard), made for Arch-based Linux distributions.
